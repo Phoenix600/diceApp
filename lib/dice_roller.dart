@@ -23,7 +23,7 @@ class DiceRoller extends StatefulWidget {
 class _DiceRollerState extends State<DiceRoller> {
   Random randomizer = Random();
 
-  String activeDiceImage = "";
+  String activeDiceImage = "assets/image/dice-1.png";
 
   void rollDice() {
     int currentDiceImageIndex = randomizer.nextInt(6) + 1;
