@@ -15,3 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+
+<div style="display:flex; gap:12px">
+<img src="screenshots/screenshot1.jpg" width="220px">
+<img src="screenshots/screenshot2.jpg" width="220px">
+<img src="screenshots/screenshot3.jpg" width="220px">
+</div>
